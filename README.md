@@ -6,7 +6,88 @@
 
 ## 👤 Who Am I
 
-I'm **Waer** (Abdelrahman) — a cybersecurity researcher and bug bounty hunter focused on **web application security**, **cloud exploitation**, and **security automation**.
+# 🚀 Kareem Mohamed's Tech Universe
+
+> **IT Student @ BUT** · **Front-End Developer** · **Embedded Systems Enthusiast** · **Innovator behind Novera**
+
+---
+
+## 👤 Who Am I
+
+أنا **كريم محمد عبده**، طالب في السنة الثانية بتخصص تكنولوجيا المعلومات (IT) في **جامعة برج العرب التكنولوجية**. أؤمن بأن التكنولوجيا ليست مجرد أكواد، بل هي أداة لحل مشكلات الواقع.
+
+ينصب تركيزي على بناء واجهات مستخدم جذابة باستخدام **React**، ودمج الذكاء الاصطناعي مع العتاد الصلب (Hardware) لخلق حلول ذكية مثل مشروع **Novera**. أسعى دائماً للتميز الأكاديمي (تقدير ممتاز) والنمو المهني من خلال المشاريع التطبيقية.
+
+**مجالات تخصصي:**
+- 💻 **Front-End Development** – بناء مواقع سريعة ومتجاوبة باستخدام React & Tailwind.
+- 🤖 **Embedded Systems** – برمجة Arduino وتصميم الدوائر الإلكترونية (PCB).
+- 🛠️ **IT Support & Hardware** – حاصل على شهادة معتمدة من Caritas والاتحاد الأوروبي.
+- 🎨 **UI/UX & Branding** – تصميم هويات بصرية للمشاريع التقنية.
+
+📬 **تواصل معي:**
+- 📧 البريد الإلكتروني: [Kareem.mohamed.abdo.ismail@gmail.com](mailto:Kareem.mohamed.abdo.ismail@gmail.com)
+- 💼 لينكد إن: [linkedin.com/in/kareem-mohamed-abdo](https://www.linkedin.com/in/kareem-mohamed-abdo-50b6912b5/)
+- 🌐 معرض أعمالي: [kareemmo7hmed.vercel.app](https://kareemmo7hmed.vercel.app/)
+
+---
+
+## 🔥 Featured Projects
+
+لا أكتفي بالشرح النظري، بل أحول الأفكار إلى واقع ملموس. إليك أهم محطاتي التقنية:
+
+| Project | Type | Tech Stack | Description |
+|---------|------|------------|-------------|
+| **[Novera](https://github.com/kareemmoh7med/Novera)** | Smart Hardware | Arduino, AI, Sensors | سلة مهملات ذكية تدعم فرز النفايات آلياً في الحرم الجامعي. |
+| **[XB-FOOD](https://kareemmoh7med.github.io/XB-FOOD/)** | Web App | HTML, CSS, JS | منصة لعرض وطلب الوجبات بتصميم عصري وتجربة مستخدم سلسة. |
+| **ContactHub** | Software | React, Firebase | نظام متكامل لإدارة جهات الاتصال وحفظ البيانات سحابياً. |
+| **Inventory System** | Management | Python, SQL | أداة لإدارة المخازن وتتبع المنتجات بدقة عالية. |
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 🖥️ Software Development
+* **Languages:** JavaScript (ES6+), Python, C++, C.
+* **Frameworks:** React.js, Tailwind CSS, Bootstrap.
+* **Tools:** Git & GitHub, VS Code, Vercel.
+
+### 🔌 Hardware & Engineering
+* **Platforms:** Arduino, ESP32.
+* **Design:** PCB Design, Proteus, Fritzing.
+* **Specialty:** IoT Solutions, Sensor Integration, Smart Automation.
+
+### 📜 Certifications
+* **IT Support & Hardware Specialist** – Caritas Egypt & EU.
+* **Front-End Web Development** – Professional Nano-degree.
+
+---
+
+## 📂 Repository Structure
+
+### 📋 [Projects/](https://github.com/kareemmoh7med?tab=repositories)
+جميع الأكواد المصدرية لمشاريعي البرمجية، مرتبة من الأقدم للأحدث.
+- **Front-end-apps:** تطبيقات React و JavaScript.
+- **Embedded-systems:** ملفات برمجة Arduino ومخططات الدوائر.
+
+### 🛡️ [Professional-Assets/](https://github.com/kareemmoh7med)
+نماذج من تصاميم الهوية البصرية (Logos) لشركاتي التخيلية مثل **KM Software**.
+
+---
+
+## 🗺️ How to Reach Me
+
+إذا كنت تبحث عن مطور يجمع بين فهم البرمجيات والقدرة على التعامل مع العتاد، أو تريد التعاون في مشروع مبتكر:
+
+1. تفقد معرض أعمالي [من هنا](https://kareemmo7hmed.vercel.app/).
+2. راسلني مباشرة عبر البريد الإلكتروني.
+3. تابع نشاطي التقني على GitHub و LinkedIn.
+
+---
+
+<p align="center">
+  <b>تم التطوير بواسطة <a href="https://kareemmo7hmed.vercel.app/">كريم محمد</a></b><br>
+  إسكندرية، مصر 🇪🇬
+</p>
 
 This repository is my brain, exported. Everything here comes from hands-on experience: breaking into bug bounty targets, solving CTF challenges, completing APT lab simulations, and building my own security tooling. I don't write about attacks I've only read about — I write about attacks I've executed, debugged, and reported.
 
@@ -174,8 +255,4 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 ---
 
-<p align="center">
-  <b>Built by <a href="https://linkedin.com/in/wa3r">Waer</a></b> · 
-  <a href="mailto:abdowaer099@gmail.com">abdowaer099@gmail.com</a> · 
-  <a href="https://linkedin.com/in/wa3r">LinkedIn</a>
-</p>
+
