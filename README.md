@@ -84,10 +84,6 @@
 
 ---
 
-<p align="center">
-  <b>تم التطوير بواسطة <a href="https://kareemmo7hmed.vercel.app/">كريم محمد</a></b><br>
-  إسكندرية، مصر 🇪🇬
-</p>
 
 This repository is my brain, exported. Everything here comes from hands-on experience: breaking into bug bounty targets, solving CTF challenges, completing APT lab simulations, and building my own security tooling. I don't write about attacks I've only read about — I write about attacks I've executed, debugged, and reported.
 
@@ -252,6 +248,11 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 ## 📄 License
 
 This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
+<p align="center">
+  <b>تم التطوير بواسطة <a href="https://kareemmo7hmed.vercel.app/">كريم محمد</a></b><br>
+  إسكندرية، مصر 🇪🇬
+</p>
+
 
 ---
 
