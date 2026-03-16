@@ -26,7 +26,7 @@
 
 📬 **تواصل معي:**
 - 📧 البريد الإلكتروني: [Kareem.mohamed.abdo.ismail@gmail.com](mailto:Kareem.mohamed.abdo.ismail@gmail.com)
-- 💼 لينكد إن: [linkedin.com/in/kareem-mohamed-abdo](https://www.linkedin.com/in/kareem-mohamed-abdo-50b6912b5/)
+- 💼 لينكد إن: [https://www.linkedin.com/in/kareem-mohamed-9979a7333](https://www.linkedin.com/in/kareem-mohamed-9979a7333)
 - 🌐 معرض أعمالي: [kareemmo7hmed.vercel.app](https://kareemmo7hmed.vercel.app/)
 
 ---
